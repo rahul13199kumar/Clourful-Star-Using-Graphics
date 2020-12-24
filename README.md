@@ -34,6 +34,7 @@ ws=turtle.Screen()
 
 A screen like this will appear:-
 
+![fff](https://user-images.githubusercontent.com/55308841/103056873-33ce5980-45c4-11eb-9c98-9fff6fcfdea2.png)
 
 3. Define an instance for turtle.
 
@@ -44,3 +45,14 @@ A screen like this will appear:-
 6.This will make up an angle 36 degrees inside a star.
 
 7. 5 iterations will make up a Star perfectly.
+
+
+# Screenshots
+
+
+![pattern](https://user-images.githubusercontent.com/55308841/103056875-36c94a00-45c4-11eb-8fa3-13c204c69657.png)
+
+# Contributor
+
+Rahul Kumar , rahul13199kumar
+
