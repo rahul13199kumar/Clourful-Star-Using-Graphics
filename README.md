@@ -1,6 +1,6 @@
 # Description
 
-Here we make a colourful star using turtle graphics in pyhton.
+Here we make a colourful star using turtle graphics in python.
 
 
 # Turtle graphics
@@ -55,6 +55,9 @@ A screen like this will appear:-
 
 
 ![zz](https://user-images.githubusercontent.com/55308841/103392886-dac37000-4b45-11eb-92f8-2eab73500a98.png)
+
+![ccn](https://user-images.githubusercontent.com/55308841/103392958-3e4d9d80-4b46-11eb-8647-e94b92bebfe6.png)
+
 
 
 # Contributor
