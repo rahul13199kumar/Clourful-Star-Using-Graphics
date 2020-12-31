@@ -49,8 +49,13 @@ A screen like this will appear:-
 
 # Screenshots
 
+![ssc](https://user-images.githubusercontent.com/55308841/103392885-d8f9ac80-4b45-11eb-9600-abcc6e499710.png)
 
 ![pattern](https://user-images.githubusercontent.com/55308841/103056875-36c94a00-45c4-11eb-8fa3-13c204c69657.png)
+
+
+![zz](https://user-images.githubusercontent.com/55308841/103392886-dac37000-4b45-11eb-92f8-2eab73500a98.png)
+
 
 # Contributor
 
